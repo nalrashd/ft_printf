@@ -15,13 +15,13 @@
 int	main(void)
 {
 	char	*p;
-	int	f = 45;
+	int	f = 25;
 	/*------------This is the built int printf------------*/
 	printf("\n\033[0;36m------------Built in printf------------\033[0m\n\n");
 	printf("The is string %s\n", "Hello my name is Noora Alrashdi");
-	printf("The is decimal: %d\n", '2');
-	printf("The is integer: %i\n", '2');
-	printf("The is unsigned decimal: %u\n", '2');
+	printf("The is decimal: %d\n", '6');
+	printf("The is integer: %i\n", '6');
+	printf("The is unsigned decimal: %u\n", '6');
 	printf("The is lower case hexa: %x\n", f);
 	printf("The is upper case hexa: %X\n", f);
 	printf("The is  pointer: %p\n", p);
@@ -31,9 +31,9 @@ int	main(void)
 	/*------------This is my ft_printf------------*/
 	ft_printf("\n\033[0;32m------------My ft_printf------------\033[0m\n\n");
 	ft_printf("The is string: %s\n", "Hello my name is Noora Alrashdi");
-	ft_printf("The is decimal: %d\n", '2');
-	ft_printf("The is integer: %i\n", '2');
-	ft_printf("The is unsigned decimal: %u\n", '2');
+	ft_printf("The is decimal: %d\n", '6');
+	ft_printf("The is integer: %i\n", '6');
+	ft_printf("The is unsigned decimal: %u\n", '6');
 	ft_printf("The is lower case hexa: %x\n", f);
 	ft_printf("The is upper case hexa: %X\n", f);
 	ft_printf("The is pointer: %p\n", p);
