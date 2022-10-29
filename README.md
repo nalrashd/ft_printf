@@ -16,6 +16,7 @@ To run this project please follow the following steps:
 - gcc *.c
 - ./a.out
 
-<img width="585" alt="Screen Shot 2022-10-27 at 4 29 41 PM" src="https://user-images.githubusercontent.com/101207512/198287138-3bed6b5a-51f8-4aec-a24b-1cec9275ffca.png">
+<img width="488" alt="Screen Shot 2022-10-29 at 4 13 30 PM" src="https://user-images.githubusercontent.com/101207512/198830982-8d695875-82f6-4e97-b9b0-f864ff36c5d0.png">
+
 
 I hope that this project will benefit you by gaining sufficient information.
